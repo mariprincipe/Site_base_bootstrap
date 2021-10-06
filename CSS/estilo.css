@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=McLaren&family=Raleway:wght@300&display=swap');
 body{
-    background-color: hsl(273, 67%, 90%);
+    background-color: hsl(0, 0%, 100%);
 }
 .col{
-    background-color: white;
+    background-color: hsl(0, 0%, 100%);
 }
 .container{
     margin-top:20px;
@@ -13,5 +13,5 @@ a{font-family: 'McLaren', sans-serif;
     Color:#000000;
 }
 h2{font-family: 'McLaren', sans-serif;
-    Color:#e3bbff;
+    Color:#f7d096;
 }
