@@ -15,3 +15,6 @@ a{font-family: 'McLaren', sans-serif;
 h2{font-family: 'McLaren', sans-serif;
     Color:#f7d096;
 }
+#perfil{
+    border-radius: 50%;
+}
